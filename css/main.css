@@ -1,0 +1,10 @@
+body {
+  font: 300 14px/1.2 'Public Sans', sans-serif; align: center;
+}
+
+.container-fluid {
+  max-width: 1024px;
+}
+.h2{
+	font: 300 14px/1.2 'Public Sans', sans-serif;
+}
